@@ -47,3 +47,23 @@ The program will run the following tasks
    * The average predicted outcome value as a blue dot
    * The real outcome value as a turquoise dot
  6. Increment by one the considered set of data and repat from point (1).
+ 
+ ## Collaborating 
+ I'm open to all kinds of improvements that can be possibily made, as long as they are submitted using well-documented pull requests.
+ 
+ ## License
+ ```
+Copyright 2018 Riccardo Montagnin.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
