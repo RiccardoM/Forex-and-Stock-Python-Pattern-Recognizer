@@ -1,4 +1,8 @@
 # Forex and Stock Python Pattern Recognizer
+## WARNING
+> This project is no longer maintained.  
+> I created this project during my University times, but now I do not have the time nor willing to continue this by myself.  
+> The repo will be put on read-only mode, but you are free to clone/fork it as you prefer to continue the work I've done.  
 
 ## Introduction
 This project represents a machine learning program that is able to recognize patterns inside Forex or stock data. 
